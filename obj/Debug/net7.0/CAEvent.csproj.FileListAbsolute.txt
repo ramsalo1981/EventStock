@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\bin\Debug\net7.0\CAEvent.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\bin\Debug\net7.0\CAEvent.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\bin\Debug\net7.0\CAEvent.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\bin\Debug\net7.0\CAEvent.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\bin\Debug\net7.0\CAEvent.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\refint\CAEvent.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\CAEvent.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEvent\obj\Debug\net7.0\ref\CAEvent.dll
